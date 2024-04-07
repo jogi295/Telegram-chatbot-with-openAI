@@ -28,6 +28,6 @@ https://docs.aiogram.dev/en/latest/
 
 ### Add in .env
 
-OPENAI_API_KEY='xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+OPENAI_API_KEY='xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'\n
 TELEGRAM_BOT_TOKEN='xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
